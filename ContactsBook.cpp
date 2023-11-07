@@ -4,6 +4,7 @@
 #include "framework.h"
 #include "ContactsBook.h"
 
+
 #define MAX_LOADSTRING 100
 
 //* Дескриптори елементів управління:
